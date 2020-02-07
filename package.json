@@ -1,0 +1,10 @@
+{
+  "name": "login",
+  "description": "",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^3.21.2"
+  }
+}
